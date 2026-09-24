@@ -1,0 +1,8 @@
+{
+  "name": "MY CALORY",
+  "description": "스마트 일일 칼로리 관리 및 캘린더 연동 식단·운동 플래너",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
